@@ -1,0 +1,33 @@
+Camify - FS2024 : composants tiers / third-party components
+============================================================
+
+SimConnect.dll
+--------------
+FR : Camify.exe intègre, sans modification, le fichier SimConnect.dll (client SimConnect natif
+     x64) issu du Microsoft Flight Simulator 2024 SDK 1.7.3.
+     SimConnect.dll © Microsoft Corporation. Tous droits réservés. Il est fourni « tel quel »,
+     sans garantie, et reste soumis aux termes de licence du Microsoft Flight Simulator SDK,
+     joints à chaque version sous le nom MSFS-SDK-EULA.pdf. Camify l'utilise uniquement pour
+     communiquer avec une copie de Microsoft Flight Simulator 2024 légalement installée.
+     Camify est une application indépendante : elle n'est ni affiliée à Microsoft ni approuvée
+     ou soutenue par Microsoft.
+
+EN : Camify.exe embeds, unmodified, the SimConnect.dll file (native x64 SimConnect client) from
+     the Microsoft Flight Simulator 2024 SDK 1.7.3.
+     SimConnect.dll © Microsoft Corporation. All rights reserved. It is provided "as is",
+     without warranty, and remains subject to the Microsoft Flight Simulator SDK license terms,
+     attached to each release as MSFS-SDK-EULA.pdf. Camify only uses it to communicate with a
+     legally installed copy of Microsoft Flight Simulator 2024.
+     Camify is an independent application: it is not affiliated with, endorsed by or supported
+     by Microsoft.
+
+SHA-256 (SimConnect.dll) : B10DE7ADF4C62E5F66C89DD6D01B64091BBBCEC83411CFE191D6B85FBEE61D15
+
+Données aéroports et pistes / Airport and runway data
+-----------------------------------------------------
+OurAirports (https://github.com/davidmegginson/ourairports-data), domaine public / public
+domain. Téléchargées par Camify au premier lancement, non incluses dans l'exécutable /
+downloaded by Camify on first launch, not included in the executable.
+
+Microsoft Flight Simulator est une marque de Microsoft Corporation. / Microsoft Flight
+Simulator is a trademark of Microsoft Corporation.

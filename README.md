@@ -22,6 +22,16 @@ de la version / the SHA-256 is shown on the release page:
 (Get-FileHash .\Camify.exe).Hash
 ```
 
+## Composants tiers / Third-party components
+
+`Camify.exe` intègre, sans modification, `SimConnect.dll` du Microsoft Flight Simulator 2024 SDK
+(© Microsoft Corporation, fourni « tel quel »), soumis aux termes de licence du SDK :
+[MSFS-SDK-EULA.pdf](MSFS-SDK-EULA.pdf). Voir [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
+
+`Camify.exe` embeds, unmodified, `SimConnect.dll` from the Microsoft Flight Simulator 2024 SDK
+(© Microsoft Corporation, provided "as is"), subject to the SDK license terms:
+[MSFS-SDK-EULA.pdf](MSFS-SDK-EULA.pdf). See [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
+
 Ce dépôt ne contient que les versions publiées ; le code source n'est pas public.
 This repository only hosts published releases; the source code is not public.
 
