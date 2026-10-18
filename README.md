@@ -4,14 +4,14 @@ Caméras cinématiques pour **Microsoft Flight Simulator 2024** : ralenti autour
 plans aléatoires, flyby (la caméra attend l'avion sur sa trajectoire) et tour de contrôle (caméra
 en bord de la piste d'atterrissage). Chaque atterrissage est enregistré et noté : revoyez-le sur un
 graphe ou rejouez-le dans MSFS sur votre propre avion, filmé par ces caméras. Caméras et replay se pilotent aussi depuis le
-navigateur du téléphone, sur le réseau local. Raccourci clavier global, thème clair/sombre, français,
+navigateur du téléphone, sur le réseau local, qui peut aussi afficher MSFS en direct (live stream). Raccourci clavier global, thème clair/sombre, français,
 anglais et espagnol. Aucun compte, aucune donnée envoyée.
 
 Cinematic cameras for **Microsoft Flight Simulator 2024**: slow-motion shots around the aircraft,
 flyby (the camera waits for the aircraft on its path) and control tower (camera beside the
 landing runway). Every landing is recorded and rated: review it on a graph or replay it in MSFS
 on your own aircraft, filmed by these cameras. Cameras and replay can also be driven from the phone's web browser, on the
-local network. Global keyboard shortcut, light/dark theme, French, English and Spanish. No account,
+local network, which can also show MSFS live (live stream). Global keyboard shortcut, light/dark theme, French, English and Spanish. No account,
 no data sent.
 
 ## Téléchargement / Download
